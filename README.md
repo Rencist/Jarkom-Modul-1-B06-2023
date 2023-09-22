@@ -172,6 +172,10 @@ Anggota Kelompok B06 :
 
 6. Seorang anak bernama Udin Berteman dengan SlameT yang merupakan seorang penggemar film detektif. sebagai teman yang baik, Ia selalu mengajak slamet untuk bermain valoranT bersama. suatu malam, terjadi sebuah hal yang tak terdUga. ketika udin mereka membuka game tersebut, laptop udin menunjukkan sebuah field text dan Sebuah kode Invalid bertuliskan "server SOURCE ADDRESS 7812 is invalid". ketika ditelusuri di google, hasil pencarian hanya menampilkan a1 e5 u21. jiwa detektif slamet pun bergejolak. bantulah udin dan slamet untuk menemukan solusi kode error tersebut.
 
+   - Di dalam soal terdapat pesan tersembunyi yang ditandai dengan huruf kapital.
+   - Pesan tersebut adalah `SUBTITUSI`, di mana tujuan pesan tersebut adalah untuk mengubah IP Source yang berbentuk angka menjadi sebuah alfabet yang berjumlah 6 dengan format penggantian `a=1, e=5, u=21`.
+   - Tertulis IP-nya yaitu `104.18.14.101` yang apabila disubtitusi alfabel menjadi "JDRNJA".
+
 <br />
 <br />
 
