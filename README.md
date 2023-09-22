@@ -176,10 +176,20 @@ Anggota Kelompok B06 :
    - Pesan tersebut adalah `SUBTITUSI`, di mana tujuan pesan tersebut adalah untuk mengubah IP Source yang berbentuk angka menjadi sebuah alfabet yang berjumlah 6 dengan format penggantian `a=1, e=5, u=21`.
    - Tertulis IP-nya yaitu `104.18.14.101` yang apabila disubtitusi alfabel menjadi "JDRNJA".
 
+   <br />
+
+   ![image](https://github.com/Rencist/Jarkom-Modul-1-B06-2023/assets/108203648/a5075a63-9a7d-4044-b73d-9553ba72e47a)
+
+   <br />
+
+   ## Flag
+
+   ![image](https://github.com/Rencist/Jarkom-Modul-1-B06-2023/assets/108203648/71403786-838e-41f1-b3b3-8dac2a7a2705)
+
 <br />
 <br />
 
-7. Berapa jumlah packet yang menuju IP 184.87.193.88?
+8. Berapa jumlah packet yang menuju IP 184.87.193.88?
 
    - Gunakan ip.dst == 184.87.193.88
    - Hitung jumlah packet
